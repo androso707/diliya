@@ -48,3 +48,16 @@ C:\Users\Leo\Downloads\SOFTWARE MOCKUP\FINAL\SoftwareII\Dominioo\obj\Debug\Domin
 C:\Users\Leo\Downloads\SOFTWARE MOCKUP\FINAL\SoftwareII\Dominioo\obj\Debug\Dominioo.pdb
 C:\Users\Leo\SoftwareII\Dominioo\obj\Debug\Dominioo.VistaOrdendarTramite.resources
 C:\Users\Leo\SoftwareII\Dominioo\obj\Debug\Dominioo.ControlVistaOrdenar.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.csprojAssemblyReference.cache
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.CalificarTramitador.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.ControlCalificarTramite.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.ControlVistaOrdenar.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.Form1.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.FormularioGestionarReportes.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.FormularioGestionarUsusarios.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.Properties.Resources.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.VistaOrdendarTramite.resources
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.csproj.GenerateResource.cache
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.exe
+C:\Users\SANTIAGO\diliya\Dominioo\obj\Debug\Dominioo.pdb

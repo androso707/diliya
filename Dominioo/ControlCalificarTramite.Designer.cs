@@ -69,6 +69,7 @@
             this.Controls.Add(this.button1);
             this.Name = "ControlCalificarTramite";
             this.Text = "ControlCalificarTramite";
+            this.Load += new System.EventHandler(this.ControlCalificarTramite_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -30,5 +30,10 @@ namespace Dominioo
             conn.Close();
             MessageBox.Show("Calificacion Exitosa");
         }
+
+        private void ControlCalificarTramite_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
